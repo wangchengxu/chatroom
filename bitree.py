@@ -2,8 +2,8 @@
 二叉树的构建与遍历
 重点代码
 """
-
-
+import os      # ｘｉ大叔大婶
+import time    # wang 打打算
 # 　二叉树的节点类
 class TreeNode:
     def __init__(self, data=None, left=None, right=None):
